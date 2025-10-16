@@ -18506,5 +18506,12 @@
     "author": "@gapmiss",
     "description": "Create and customize themes with a built-in CSS editor. Modify colors, styles, and export your custom theme.",
     "repo": "gapmiss/custom-theme-studio"
-  }
+  },
+  {
+    "id": "rpg-player-notes",
+    "name": "RPG Player Notes",
+    "author": "Roy W. Andersen",
+    "description": "Create notes or sections from selected text, replacing it with a link. Define custom note types with folder or section targets, dynamic tokens, and optional automatic sorting of inserted sections.",
+    "repo": "NorseJedi/obsidian-rpg-player-notes"
+  },
 ]
